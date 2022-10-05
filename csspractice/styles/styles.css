@@ -1,11 +1,11 @@
-nav {
-    background-color: steelblue;
-    padding: 10px;
-}
 a {
     font-size:  1.5em;
     color: white;
     margin: 40px;
+}
+a:hover {
+    background-color: white;
+    color: steelblue;
 }
 h1 {
     text-align: center;
@@ -28,6 +28,10 @@ main p {
     background-color: white;
     color: steelblue;
 }
+footer p{
+    font-size: 20px;
+    margin: 20px auto;
+}
 p {
     width: 80%;
     padding: 10px;
@@ -36,4 +40,5 @@ nav, footer {
     text-align: center;
     background-color: steelblue;
     color: white;
+    padding: 10px;
 }
