@@ -8,6 +8,7 @@ body {
 .home-title {
     color: #333d29;
     font-family: 'Rubik Dirt', 'Avant Garde', sans-serif;
+    font-size: 2em;
 }
 
 .logo {
@@ -36,6 +37,7 @@ nav a:hover {
     background-color: #A4AC86;
     color: black;
     text-decoration: none;
+    font-size: 18px;
 }
 
 .book:hover,
@@ -50,6 +52,8 @@ nav a:hover {
 
 .msg {
     background-color: #7f4f24;
+    font-family: 'Rubik Dirt', 'Avant Garde', sans-serif;
+    font-size: .8em;
 }
 
 #content {
