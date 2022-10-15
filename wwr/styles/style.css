@@ -19,6 +19,10 @@ h2 {
     margin-top: 10px;
 }
 
+#hero-img {
+    width: 100%;
+}
+
 .logo {
     width: 80px;
 }
@@ -119,6 +123,7 @@ main section {
 
 #background {
     height: 725px;
+    background-color: #7f4f24;
 }
 
 footer {
@@ -132,8 +137,7 @@ footer p {
 }
 
 footer .social img {
-    padding-top: 35px;
-    margin-top: 200px;
+    padding-top: 15px;
 }
 
 footer p:hover {
