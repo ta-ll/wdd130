@@ -1,0 +1,23 @@
+body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+
+img {
+    margin-right: 50%;
+    height: 500px;
+    z-index: -1;
+}
+
+h1 {
+    z-index: 1;
+    font-size: 200px;
+}
+.grey {
+    width: 50%;
+    height: 500px;
+    float: right;
+    z-index: -1;
+    background-color: lightgray;
+}
